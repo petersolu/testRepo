@@ -1,0 +1,7 @@
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\bin\Debug\Olu2019TestProject.exe.config
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\bin\Debug\Olu2019TestProject.exe
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\bin\Debug\Olu2019TestProject.pdb
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\obj\Debug\Olu2019TestProject.csprojAssemblyReference.cache
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\obj\Debug\Olu2019TestProject.csproj.CoreCompileInputs.cache
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\obj\Debug\Olu2019TestProject.exe
+C:\Users\OLU\Documents\ClassRepo\Olu2019TestSolution\Olu2019TestProject\obj\Debug\Olu2019TestProject.pdb
